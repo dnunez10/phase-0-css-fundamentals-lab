@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  vertical-align: middle;
+  text-align: center;
+}
+nav {
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  vertical-align: middle;
+}
+a:link {
+  background-color: lightcoral;
+}
+#featured-property {
+  text-align: center;
+  vertical-align: middle;
+}
+p{
+  text-align: center;
+  vertical-align: middle;
+  width: 800px;
+  padding-left: 310px;
+}
+ #details {
+  float: left;
+  background-color: lightcoral;
+  width: 25%;
+}
